@@ -89,6 +89,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 
 * [mutagem](https://crates.io/crates/mutagen)
 * [cargo-mutants](https://github.com/sourcefrog/cargo-mutants)
+* [bough](https://github.com/CodeEnPlace/bough)
 
 ### Harnesses/Frameworks
 
